@@ -1,7 +1,7 @@
 console.log('đây là trang login');
 
-const p = document.createElement('p');
-p.textContent = 'hello';
-p.className = 'text-color';
+const p1 = document.createElement('p');
+p1.textContent = 'hello';
+p1.className = 'text-color';
 
-document.getElementById('root').appendChild(p);
+document.getElementById('root').appendChild(p1);
